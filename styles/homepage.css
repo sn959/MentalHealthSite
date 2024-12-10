@@ -1,0 +1,56 @@
+/* DEVELOPER: Shreya Nanda, IS117-004, Fall 2024 */
+
+.navbar {
+   border-bottom: 2px solid #9a96d8; 
+}
+
+
+body, html {
+    background-color: #FAF0E6; 
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    height: 100%; 
+    min-height: 100%; 
+}
+
+
+.content {
+    padding: 30px 15px;
+    margin-top: 40px; 
+    margin-bottom: 120px; 
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.85rem;
+    border-top: 2px solid #32cd32;
+}
+
+
+.card {
+    border-radius: 15px; 
+    background-color: #FAF0E6;
+    padding: 20px;
+    color: white; 
+    border: 2px solid #4e8e4e; 
+}
+
+    .content {
+        padding: 20px; 
+        margin-bottom: 100px; 
+    }
+
+    .footer {
+        font-size: 0.75rem;
+        padding: 6px; 
+    }
+        
+}

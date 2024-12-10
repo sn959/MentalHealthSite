@@ -1,0 +1,39 @@
+/* DEVELOPER: Shreya Nanda, IS117-004, Fall 2024 */
+.navbar { 
+    background-color: #c2dbc2 !important; 
+    padding: 1rem 1.5rem; 
+    height: 70px;
+    align-items: center; 
+}
+
+body, html {
+    background-color: #FAF0E6; 
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    height: 100%; 
+    min-height: 100%; 
+}
+
+.content {
+    padding: 30px 15px;
+    margin-top: 40px; 
+    margin-bottom: 150px; 
+}
+
+.footer {
+    position: fixed;
+    background-color: #333;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.85rem;
+}
+
+.container {
+    padding-bottom: 15px; 
+}
+
+}
